@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+The Mathematical Findings of DDR Difficulty Calculators
 
 You can use the [editor on GitHub](https://github.com/VeryProfessional/DDRData/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
