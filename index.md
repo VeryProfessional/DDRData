@@ -180,6 +180,8 @@ Interpretation: This is the rating Konami officially gave the songs. It looks li
 
 I made two stepfiles which showcase what it would look like if a song had the every hardest/easiest attribute. The only exceptions are year, which is impossible to control, and stops, which I am unable to edit. These charts do not factor causation to make the charts as similar to real DDR charts as possible ("balancing" the charts).
 
+# Improvements:
+
  **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
