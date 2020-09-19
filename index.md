@@ -4,22 +4,22 @@ Goal: To find out what makes a song in Dance Dance Revolution hard to score on
 
 Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1YCIQHmHyEqYVxfpS_oZpCO26jYfiLwXr8O0rxaybCsY/edit?usp=sharing) does a good job of documenting what occurred every week
 
-Week 1- Introduction
+Week 1-
 The method for completing the project was fleshed out. 54 songs were chosen from the game that had the hardest difficulty, 18 and 19. This was so there would be enough score variance between the top players. The top fourteen players from the DDR ranking website plus the third place Konami Arcade Championship finalist would be evaluated for their scores. Data will be taken from Skill Attack or Twitter, whichever one provides more accurate scores.
 
-Week 2- [Google Sheets](https://docs.google.com/spreadsheets/d/1iJwB6DM1Rgd7vcykuHsGiLuTWSulf_7CsIXnuPkISbw/edit?usp=sharing)
-The “Song Information” tab was created, along with most of the columns. This intends to document every attribute of a song that could possibly contribute to its difficulty.
+Week 2- [The](https://docs.google.com/spreadsheets/d/1iJwB6DM1Rgd7vcykuHsGiLuTWSulf_7CsIXnuPkISbw/edit?usp=sharing)
+ “Song Information” tab was created, along with most of the columns. This intends to document every attribute of a song that could possibly contribute to its difficulty.
 
-Week 3- Player data
+Week 3-
 Player data was added, which collects the scores from the fifteen top players mentioned above, plus what kind of combo they achieved. Their scores were then combined to form an average score for every song and player. Any scores left undocumented were left blank.
 
-Week 4- User Information
+Week 4-
 The “User Information” tab was added, which went over the top players and some basic information about them. This tab was largely unused. More columns were added to the Song Information tab and the player scores were finalized.
 
-Week 5- Ordered Data
+Week 5-
 The data taken from the first two slides were combined. Each column from Song Information was lined up and compared with the average score. Two scatter plots were made per column. One with a range of 925,000-1,000,00 and one with a range of 990,000-1,000,000 to better examine the data without the inclusion of the outliers that were given a 19 difficulty. The top two easiest and hardest ranges were documented
 
-Week 6- Github
+Week 6-
 The (incomplete) findings were posted on Github with the intention to finish in the future. This was mostly learning how to use Github and how to clearly present the data in website format.
 
 Week 7- 
