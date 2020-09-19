@@ -41,6 +41,8 @@ Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped 
 
 Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same time
 
+BPM- The beats per minute of the main melody of the song
+
 Peak BPM- Highest BPM a song reaches when at least one note is hit
 
 Lowest BPM- Lowest BPM a song reaches when at least one note is hit
@@ -57,7 +59,7 @@ Year of Origin- Year the song was originally released to the game
 
 Difficulty- Difficulty rating given by Konami, the game’s developer. While the normal scale is 1-20, this project focuses on songs rated 18-19.
 
-Air- Air value for a song given by Konami, used to calculate jumps
+Air- Air value for a song given by Konami, used to reverse calculate jumps (obsolete since it's essentially a more confusing jump stat)
 
 Avg score- Average score of fifteen selected players
 
@@ -67,9 +69,115 @@ JPS- Jumps divided by seconds
 
 CPS- Crossovers divided by seconds
 
-Results: 
+# Results: 
+The results were calculated by eyeballing the graphs and picking ranges which stand out. Interpretations are made over whether or not the correlation equals causation in each dataset
 
-Conclusion: 
+**Length (seconds)**
+
+Hardest 115-125, 95,105.
+
+Easiest 105-115/125-135,	90-95
+
+Interpretation: The longer a song, the harder it should be. DDR keeps a relatively consistent total note count, so any longer songs are balanced out by the fact that it is less dense
+
+**NPS**
+Hard 7.5-8.5,	6.5-7
+
+Easy	5-5.5	6-6.5
+
+Interpretation: This makes sense. The harder a song, the faster the notes
+
+**FAPS**
+
+Hard	.3-.35,	0.75
+
+Easy	.4-.6,	.11-.35
+
+Interpretation: There is an upwards trend with difficulty, but it's not exact. This could be a combination of freeze notes resulting in less overall notes but more complex charts.
+
+**Shock Arrows**
+
+Hard	0,	50+
+
+Easy	0,	1-25
+
+Interpretation: There are only four shock arrow charts out of the fifty four analyzed songs. Konami knows how unpopular these types of charts are and therefore keep them simple and scarce.
+
+**JPS**
+
+Hard	.25-.4, .7-1.05
+
+Easy	.4-.6,	0-.25
+
+Interpretation: Jumps are usually put in a song to compensate for less notes. Either that, or they are thrown in an already fast song, which seems to be the case for the .25-.4 range.
+
+**BPM**
+
+Hard	220,	170-180
+
+Easy	200-210,	180-190
+
+Interpretation: The more extreme the BPM, the harder it is to see the notes
+
+**Peak BPM**
+
+Hard	700-900,	160-190
+
+Easy	200-240,	300-450
+
+Interpretation: Same as BPM
+
+**Lowest BPM**
+
+Hard	0-150,	210+
+
+Easy	190-210,	175-185
+
+Interpretation: Same as BPM
+
+**#of Stops**
+
+Hard	0,	5-10
+
+Easy	1-5,	10-15
+
+Interpretation: Stops, while disruptive, are easy to telegraph. There is no real correlation since stops are a non-issue once they are memorized.
+
+**#BPM changes**
+
+Hard	0-10,	0
+
+Easy	10-20,	0
+
+Interpretation: A song with too many BPM changes usually revolves around them, and suffers in other departments. The trick is to keep them scarce but significant. About half of the charts have zero BPM changes, which is why they are simultaneously the second hardest and easiest.
+
+**Year of Origin**
+
+Hard	2020,	2019
+
+Easy	2016,	2006
+
+Interpretation: In 2016, DDR A was released, the first North American DDR release in six years. Because of this, it makes sense Konami would release easier songs to get players back in the groove. The other dates make sense because more time since release = more time to practice.
+
+**CPS**
+
+Hard	.2-.3,	.7+
+
+Easy	0-.2,	.3-.4
+
+Interpretation: Crossovers are the hardest pattern in the game. It makes sense harder songs would include lots of them.
+
+**Difficulty**
+
+Hard	19
+
+Easy	18
+
+Interpretation: This is the rating Konami officially gave the songs. It looks like they did a good job.
+
+# Conclusion: 
+
+I made two stepfiles which showcase what it would look like if a song had the every hardest/easiest attribute. The only exceptions are year, which is impossible to control, and stops, which I am unable to edit. These charts do not factor causation to make the charts as similar to real DDR charts as possible ("balancing" the charts).
 
  **Bold** and _Italic_ and `Code` text
 
