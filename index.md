@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
-The Mathematical Findings of DDR Difficulty Calculators
+#The Mathematical Findings of DDR Difficulty Calculators
 
-You can use the [editor on GitHub](https://github.com/VeryProfessional/DDRData/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Goal: To find out what makes a song in Dance Dance Revolution hard to score on
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Process: The process took a total of eight weeks or sixteen hours to complete. This Google Doc does a good job of documenting what occurred every week
 
 ### Markdown
 
