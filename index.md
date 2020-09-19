@@ -28,24 +28,43 @@ Week 8-
 
 ## Song Information column explanation
 Song- The song’s title
+
 ID- The song’s identification number, ordered by average score of the selected fifteen players
+
 Length (seconds)- The song’s length in seconds
+
 Notes- The amount of arrows, or notes, a song has. Does not count jumps or shock arrows
+
 Freeze Arrows- Amount of hold arrows, which have a trail following them
+
 Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped on and break the player's combo when stepped.
+
 Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same time
+
 Peak BPM- Highest BPM a song reaches when at least one note is hit
+
 Lowest BPM- Lowest BPM a song reaches when at least one note is hit
+
 #of Stops- Number of times the stepchart stops moving
+
 #BPM changes- Number of times the stepchart changes speed
+
 Notes/Second- Number of notes divided by seconds
+
 Year of Origin- Year the song was originally released to the game
+
 #of Crossovers- Number of left-up-right, left-down-right, and vice versa step patterns
+
 Difficulty- Difficulty rating given by Konami, the game’s developer. While the normal scale is 1-20, this project focuses on songs rated 18-19.
+
 Air- Air value for a song given by Konami, used to calculate jumps
+
 Avg score- Average score of fifteen selected players
+
 FArrows PS- Freeze arrows divided by seconds
+
 JPS- Jumps divided by seconds
+
 CPS- Crossovers divided by seconds
 
 Results: 
