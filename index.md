@@ -74,7 +74,7 @@ The results were calculated by eyeballing the graphs and picking ranges which st
 
 **Length (seconds)**
 
-Hard 115-125, 95,105.
+Hard 115-125, 95-105.
 
 Easi 105-115/125-135,	90-95
 
@@ -178,12 +178,11 @@ Interpretation: This is the rating Konami officially gave the songs. It looks li
 
 # Conclusion: 
 
-I made two stepfiles which showcase what it would look like if a song had the every hardest/easiest attribute. The only exceptions are year, which is impossible to control, and stops, which I am unable to edit. These charts do not factor causation to make the charts as similar to real DDR charts as possible ("balancing" the charts).
+I made two stepfiles which showcase what it would look like if a song had the every hardest/easiest attribute, using the data from the top two results. The only exceptions are year, which is impossible to control. These charts do not factor causation to make the charts as similar to real DDR charts as possible ("balancing" the charts).
 
 # Improvements:
 
  **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-``` 
 
