@@ -76,7 +76,7 @@ The results were calculated by eyeballing the graphs and picking ranges which st
 
 Hard 115-125, 95-105.
 
-Easi 105-115/125-135,	90-95
+Easy 105-115/125-135,	90-95
 
 Interpretation: The longer a song, the harder it should be. DDR keeps a relatively consistent total note count, so any longer songs are balanced out by the fact that it is less dense
 
