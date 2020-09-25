@@ -28,21 +28,21 @@ Two song files were charted and the download link was provided. Anyone can now v
 Week 8-
 
 ## Song Information column explanation
-Song- The song’s title ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/degrs.png)
+Song- The song’s title ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DEGRS.png)
 
 ID- The song’s identification number, ordered by average score of the selected fifteen players
 
-Length (seconds)- The song’s length in seconds ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/length.png)
+Length (seconds)- The song’s length in seconds ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Length.png)
 
-Notes- The amount of arrows, or notes, a song has. Does not count jumps or shock arrows. (The leftmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Notes- The amount of arrows, or notes, a song has. Does not count jumps or shock arrows. (The leftmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Note.png)
 
-Freeze Arrows- Amount of hold arrows, which have a trail following them. (The middle number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Freeze Arrows- Amount of hold arrows, which have a trail following them. (The middle number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Note.png)
 
-Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped on and break the player's combo when stepped. (The rightmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped on and break the player's combo when stepped. (The rightmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Note.png)
 
-Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same time ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/jump.png)
+Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same time ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Jump.png)
 
-BPM- The beats per minute of the main melody of the song ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/bpm.png)
+BPM- The beats per minute of the main melody of the song ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/BPM.png)
 
 Peak BPM- Highest BPM a song reaches when at least one note is hit
 
@@ -58,9 +58,9 @@ Year of Origin- Year the song was originally released to the game ![](https://gi
 
 #of Crossovers- Number of left-up-right, left-down-right, and vice versa step patterns ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/crossover.png)
 
-Difficulty- Difficulty rating given by Konami, the game’s developer. While the normal scale is 1-20, this project focuses on songs rated 18-19. ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/degrs.png)
+Difficulty- Difficulty rating given by Konami, the game’s developer. While the normal scale is 1-20, this project focuses on songs rated 18-19. ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DEGRS.png)
 
-Air- Air value for a song given by Konami, used to reverse calculate jumps (obsolete since it's essentially a more confusing jump stat) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/air.png)
+Air- Air value for a song given by Konami, used to reverse calculate jumps (obsolete since it's essentially a more confusing jump stat) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Air.png)
 
 Avg score- Average score of fifteen selected players
 
