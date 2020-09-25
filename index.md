@@ -32,13 +32,13 @@ Song- The song’s title ![](https://github.com/veryprofessional/DDRData/blob/gh
 
 ID- The song’s identification number, ordered by average score of the selected fifteen players
 
-Length (seconds)- The song’s length in seconds ![Taken from Remywiki](https://github.com/veryprofessional/DDRData/blob/gh-pages/length.png)
+Length (seconds)- The song’s length in seconds ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/length.png)
 
-Notes- The amount of arrows, or notes, a song has. Does not count jumps or shock arrows ![The leftmost number. Taken from Remywiki](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Notes- The amount of arrows, or notes, a song has. Does not count jumps or shock arrows. (The leftmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
 
-Freeze Arrows- Amount of hold arrows, which have a trail following them ![The middle number. Taken from Remywiki](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Freeze Arrows- Amount of hold arrows, which have a trail following them. (The middle number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
 
-Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped on and break the player's combo when stepped. ![The rightmost number. Taken from Remywiki](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
+Shock Arrows- Amount of rows of shock arrows, which are not meant to be stepped on and break the player's combo when stepped. (The rightmost number) ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/note.png)
 
 Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same time ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/jump.png)
 
