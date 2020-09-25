@@ -28,7 +28,7 @@ Two song files were charted and the download link was provided. Anyone can now v
 Week 8-
 
 ## Song Information column explanation
-Song- The song’s title
+Song- The song’s title ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/neko.png)
 
 ID- The song’s identification number, ordered by average score of the selected fifteen players
 
