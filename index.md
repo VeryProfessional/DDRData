@@ -23,7 +23,7 @@ Week 6-
 The (incomplete) findings were posted on Github with the intention to finish in the future. This was mostly learning how to use Github and how to clearly present the data in website format.
 
 Week 7- 
-Two song files were charted and the download link was provided. Anyone can now view and play the two files via Stepmania. The stats for both of the songs can be seen [here](https://docs.google.com/spreadsheets/d/134HJ1K5NMneQ5BUBdozxQiMSxIQhdLy4YYYz-SJIV9U/edit?usp=sharing).
+Two song files were charted and the download link was provided. Anyone can now view and play the two files via Stepmania. The stats for both of the songs can be seen [here](https://docs.google.com/spreadsheets/d/134HJ1K5NMneQ5BUBdozxQiMSxIQhdLy4YYYz-SJIV9U/edit?usp=sharing). The improvements section was added, going over ways this project could be improved.
 
 Week 8-
 
