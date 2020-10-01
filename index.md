@@ -26,6 +26,7 @@ Week 7-
 Two song files were charted and the download link was provided. Anyone can now view and play the two files via Stepmania. The stats for both of the songs can be seen [here](https://docs.google.com/spreadsheets/d/134HJ1K5NMneQ5BUBdozxQiMSxIQhdLy4YYYz-SJIV9U/edit?usp=sharing). The improvements section was added, going over ways this project could be improved.
 
 Week 8-
+The songs were recorded and uploaded to YouTube for viewers who can't download Stepmania. 
 
 ## Song Information column explanation
 Song- The song’s title 
