@@ -1,6 +1,6 @@
 # The Mathematical Findings of DDR Difficulty Calculators
 
-Goal: To find out what makes a song in Dance Dance Revolution hard to score on
+Goal: To find out what makes a song in Dance Dance Revolution hard to score on. 
 
 Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) does a good job of documenting what occurred every week
 
@@ -211,12 +211,10 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 
 # Improvements:
 
-The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. I tried to code a graph to solve it this way, but was unable to interpret it.
+The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. I tried to code a graph to solve it this way, but was unable to interpret it. The best way to interpret the data is to cross reference human interpretation and statistical data. While there is some room for improvement, I think the original goal has been fullfilled. 
 
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
-
-While there is some room for improvement, I think the original goal has been fullfilled. 
 
 # Extras
 
