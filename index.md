@@ -214,4 +214,4 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. I tried to code a graph to solve it this way, but it came out like a mess 
 
 
-![](src="img/code.png")
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
