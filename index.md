@@ -31,7 +31,7 @@ The songs were recorded and uploaded to YouTube for viewers who can't download S
 ## Song Information column explanation
 Song- The song’s title 
 
-![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DEGRS.png)
+![a](https://github.com/veryprofessional/DDRData/blob/gh-pages/DEGRS.png)
 
 ID- The song’s identification number, ordered by average score of the selected fifteen players
 
