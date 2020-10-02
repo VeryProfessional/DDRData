@@ -215,3 +215,10 @@ The biggest way this project can be improved is by mathematically solving for th
 
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
+
+While there is some room for improvement, I think the original goal has been fullfilled. 
+
+# Extras
+
+I know I still have a lot to learn about this process. Maybe one day i'll come back to this and finish the missing piece to this mathematical puzzle. I've been playing DDR for six years on and off, and it's gratifying to pick apart this game that has been part of me for most of my life. I've been starting to make charts of my own after seeing how much potential this game had, which is what gave me the inspiration to add the conclusion section. This data, while useful, is not the law for charting. I hope that one day, I can make charts that don't conform to these standards and show how creative DDR can be.
+
