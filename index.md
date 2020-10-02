@@ -72,6 +72,7 @@ Notes/Second- Number of notes divided by seconds
 Year of Origin- Year the song was originally released to the game 
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Date.png)
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DEGRS.png)
 
 #of Crossovers- Number of left-up-right, left-down-right, and vice versa step patterns 
 
