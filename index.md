@@ -2,6 +2,8 @@
 
 Goal: To find out what makes a song in Dance Dance Revolution hard to score on. 
 
+Background: This project is practice for interpreting data and using statistics. As someone who's been playing the game for six years, this topic is one I have a deep knowledge on.
+
 Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) does a good job of documenting what occurred every week
 
 Week 1-
