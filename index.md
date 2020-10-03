@@ -4,8 +4,7 @@ Goal: To find out what makes a song in Dance Dance Revolution hard to score on.
 
 Background: This project is practice for interpreting data and using statistics. As someone who's been playing the game for six years, this topic is one I have a deep knowledge on. Dance Dance Revolution is a music-rhythm game. The gameplay is dancing to various songs by stepping on directional arrows with a pad to the beat of the music. The steps are shown with arrows that appear on screen and are hit when they line up with the receptor. The closer the timing, the better the score.
 
-Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) does a good job of documenting what occurred every week
-
+Process: The process took a total of eight weeks or sixteen hours to complete. The result was a spreadsheet with four columns that stored different types of data: "Song Information", "Player Records", "User Information", and "Ordered Data". This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) documents every week as it happened.
 Week 1-
 The method for completing the project was fleshed out. 54 songs were chosen from the game that had the hardest difficulty, 18 and 19. This was so there would be enough score variance between the top players. The top fourteen players from the DDR ranking website plus the third place Konami Arcade Championship finalist would be evaluated for their scores. Data will be taken from [Skill Attack](http://skillattack.com/sa4/) or Twitter, whichever one provides more accurate scores.
 
