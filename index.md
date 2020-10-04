@@ -2,9 +2,7 @@
 
 Goal: To find out what makes a song in Dance Dance Revolution hard to score on. 
 
-Background: This project is practice for interpreting data and using statistics. As someone who's been playing the game for six years, this topic is one I have a deep knowledge on. Dance Dance Revolution is a music-rhythm game. The gameplay is dancing to various songs by stepping on directional arrows with a pad to the beat of the music. The steps are shown with arrows that appear on screen and are hit when they line up with the receptor. The closer the timing, the better the score.
-
-Process: The process took a total of eight weeks or sixteen hours to complete. The result was a spreadsheet with four columns that stored different types of data. "Song Information" gives every attribute a song has, "Player Records" shows the documented players' records, "User Information" shows the documented players' info, and "Ordered Data" tries to interpret the data. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) documents every week as it happened.
+Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) documents every week as it happened.
 
 Week 1-
 The method for completing the project was fleshed out. 54 songs were chosen from the game that had the hardest difficulty, 18 and 19. This was so there would be enough score variance between the top players. The top fourteen players from the DDR ranking website plus the third place Konami Arcade Championship finalist would be evaluated for their scores. Data will be taken from [Skill Attack](http://skillattack.com/sa4/) or Twitter, whichever one provides more accurate scores.
@@ -217,8 +215,4 @@ The biggest way this project can be improved is by mathematically solving for th
 
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
-
-# Extras
-
-I know I still have a lot to learn about this process. Maybe one day i'll come back to this and finish the missing piece to this mathematical puzzle. I've been playing DDR for six years on and off, and it's gratifying to pick apart this game that has been part of me for most of my life. I've been starting to make charts of my own after seeing how much potential this game had, which is what gave me the inspiration to add the conclusion section. This data, while useful, is not the law for charting. I hope that one day, I can make charts that don't conform to these standards and show how creative DDR can be.
 
