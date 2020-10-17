@@ -33,6 +33,7 @@ The “User Information” tab was added, which went over the top players and so
 The data taken from the first two slides were combined. Each column from Song Information was lined up and compared with the average score. Two scatter plots were made per column. One with a range of 925,000-1,000,00 and one with a range of 990,000-1,000,000 to better examine the data without the inclusion of the outliers that were given a 19 difficulty. The top two easiest and hardest ranges were documented. My coworker also attempted to analyse the data using Python and the results were compared to try and find correlation.
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/python.png)
 
 **Week 6-**
 The (incomplete) findings were posted on Github with the intention to finish in the future. This was mostly learning how to use Github and how to clearly present the data in website format.
@@ -135,7 +136,7 @@ Hard	.3-.35,	0.75
 
 Easy	.4-.6,	.11-.35
 
-Interpretation: There is a slight upwards trend in difficulty, but it doesn't perfectly correlate. This is likely due to the fact that freeze arrows are entirely dependent on how they are used. 
+Interpretation: There is a slight upwards trend in difficulty, but it doesn't perfectly correlate. This is likely due to the fact that freeze arrows are entirely dependent on how they are used. If a freeze arrow is used as a buffer during the bridge of the song, it's nothing more than a cue to take a break and regain stamina. If it's thrown in into an already difficult stream of notes, it's a restrictor that binds your foot to that note, which gives less time to hit any other notes with said foot. That being said, if a song theoretically replaced some notes with freeze arrows, it would in fact be harder, which could explain the slight upwards curve.
 
 **Shock Arrows**
 
@@ -143,7 +144,7 @@ Hard	0,	50+
 
 Easy	0,	1-25
 
-Interpretation: There are only four shock arrow charts out of the fifty four analyzed songs. Konami knows how unpopular these types of charts are and therefore keep them simple and scarce.
+Interpretation: Shock arrows are only used in four of the fifty four analyzed songs, which makes the sample size extremely small and unreliable. Shock arrows are very unpopular and scarce due to their emphasis on "not playing the game". Therefore, while shock arrows do indeed affect the dufficulty of a song, it's best to remove them entirely to keep the spirit of DDR.
 
 **JPS**
 
@@ -151,7 +152,7 @@ Hard	.25-.4, .7-1.05
 
 Easy	.4-.6,	0-.25
 
-Interpretation: Jumps are usually put in a song to compensate for less notes. Either that, or they are thrown in an already fast song, which seems to be the case for the .25-.4 range.
+Interpretation: Jumps are possibly the most polarizing pattern in the game. They are typically added into a song to compensate for it's lack of notes, and as a result tend to be easier to score. It shows in the data as well. The top three songs with the least notes have many jumps 
 
 **BPM**
 
