@@ -73,9 +73,9 @@ Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Jump.png)
 
-[This video shows how the speed mod can affect the song experience. 888 can use the speed mod to either speed the slow section up or slow the fast section down.](https://www.youtube.com/watch?v=487RZG3VnwQ)
-
 BPM- The beats per minute of the main melody of the song. Also decides how fast a song scrolls. This feature can be changes by increments of .25. For example, a player can play a 200 BPM song on 1.5x speed and have the song scroll at 300 BPM. The actual song remains at 200 BPM, only the scroll speed is changed.
+
+[This video shows how the speed mod can affect the song experience. 888 can use the speed mod to either speed the slow section up or slow the fast section down.](https://www.youtube.com/watch?v=487RZG3VnwQ)
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/BPM.png)
 
