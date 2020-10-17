@@ -20,8 +20,7 @@ Successfully hitting the arrows in time with the music fills the "Dance Gauge", 
 **Week 1-**
 The method for completing the project was fleshed out. 54 songs were chosen from the game that had the hardest difficulty, 18 and 19. This was so there would be enough score variance between the top players. The top fourteen players from the DDR ranking website plus the third place Konami Arcade Championship finalist would be evaluated for their scores. Data will be taken from [Skill Attack](http://skillattack.com/sa4/) or Twitter, whichever one provides more accurate scores.
 
-**Week 2-** A [Google Sheets](https://docs.google.com/spreadsheets/d/1iJwB6DM1Rgd7vcykuHsGiLuTWSulf_7CsIXnuPkISbw/edit?usp=sharing) was created to document the data.
- “Song Information” tab was created, along with most of the columns. This intends to document every attribute of a song that could possibly contribute to its difficulty.
+**Week 2-** A [Google Sheets](https://docs.google.com/spreadsheets/d/1iJwB6DM1Rgd7vcykuHsGiLuTWSulf_7CsIXnuPkISbw/edit?usp=sharing) was created to document the data. “Song Information” tab was created, along with most of the columns with included the detial features of the songs like Length (seconds),Notes	,Freeze Arrows,	Shock, Arrows, Jumps	BPM. Those are important factors to descirbe the songs sytle. This intends to document every attribute of a song that could possibly contribute to its difficulty. 
 
 **Week 3-**
 Player data was added, which collects the scores from the fifteen top players mentioned above, plus what kind of combo they achieved. Their scores were then combined to form an average score for every song and player. Any scores left undocumented were left blank.
