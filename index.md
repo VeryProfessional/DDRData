@@ -196,14 +196,15 @@ Hard	0-10,	0
 
 Easy	10-20,	0
 
-Interpretation: Songs that feature many BPM changes are usually victim to DDR's balancing. Since there are many BPM changes, every other aspect becomes simplified. BPM changes are similar to stops in that they are easy to predict and work around, but it is a little harder. BPM changes could throw off a player's sight of the arrows, since they could dip above or below the player's reading speed. Overall, it is still not too much of an issue, which is why songs with the most BPM changes seem to be easier. Both the hard and easy section also include 0, since over half of the data includes 0 BPM changes.
+Interpretation: Songs that feature many BPM changes are usually victim to Konami's balancing. Since there are many BPM changes, every other aspect becomes simplified. BPM changes are similar to stops in that they are easy to predict and work around, but it is a little harder. BPM changes could throw off a player's sight of the arrows, since they could dip above or below the player's reading speed. Overall, it is still not too much of an issue, which is why songs with the most BPM changes seem to be easier. Both the hard and easy section also include 0, since over half of the data includes 0 BPM changes.
+
 **Year of Origin**
 
 Hard	2020,	2019
 
 Easy	2016,	2006
 
-Interpretation: In 2016, DDR A was released, the first North American DDR release in six years. Because of this, it makes sense Konami would release easier songs to get players back in the groove. The other dates make sense because more time since release = more time to practice.
+Interpretation: In 2016, DDR A was released, the first North American DDR release in six years. Because of this, it makes sense Konami would release easier songs to get players back in the groove. The other dates make sense because more time since release means more time to practice.
 
 **CPS**
 
@@ -211,7 +212,7 @@ Hard	.2-.3,	.7+
 
 Easy	0-.2,	.3-.4
 
-Interpretation: Crossovers are the hardest pattern in the game. It makes sense harder songs would include lots of them.
+Interpretation: Crossovers also fall victim to Konami's balancing. More crossovers usually mean less notes, but it's usually not enough to offset the difficulty of crossovers. This is why there is an upwards trend but it's not exact.
 
 **Difficulty**
 
@@ -219,7 +220,7 @@ Hard	19
 
 Easy	18
 
-Interpretation: This is the rating Konami officially gave the songs. It looks like they did a good job.
+Interpretation: This is the rating Konami officially gave the songs.
 
 # Conclusion: 
 
