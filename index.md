@@ -222,7 +222,6 @@ Easy	18
 
 Interpretation: This is the rating Konami officially gave the songs.
 
-# Conclusion: 
 
 I made two stepfiles which showcase what it would look like if a song had the every hardest/easiest attribute, using the data from the top two results. The only exceptions are year, which is impossible to control. These charts do not factor causation to make the charts as similar to real DDR charts as possible ("balancing" the charts).
 
@@ -233,4 +232,6 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 [Hard](https://drive.google.com/drive/folders/1SazX8uGqthcrPn05KGRlU2yEdPxtJT5I?usp=sharing)    
 
 [Youtube link](https://youtu.be/rZmNcZAu6g4)
+
+# Conclusion:
 
