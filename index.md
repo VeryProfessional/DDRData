@@ -235,3 +235,6 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 
 # Conclusion:
 
+If one were to try and make the truly hardest song, then all four arrows would need to be pressed at every frame of a 1000+ BPM song. On top of being humanly impossible, this is no fun. 
+
+If one were to try and make the hardest song using these rules, however, there is much more variety. There aren't many strict rules, but the data shows that there are some basic ones. An easy song includes varying degrees of low NPS, little complexity, and moderate BPM. A hard song includes the opposite, high NPS, high complexity, high variance in BPM.
