@@ -6,8 +6,11 @@ Additionally, in this project I would like to compare two methods of interpretat
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DDR.jpg)
 
-Dance Dance Revolution: Dance Dance Revolution (ダンスダンスレボリューション, Dansu Dansu Reboryūshon) (DDR), also known as Dancing Stage in earlier European games, is a music video game series produced by Konami. Introduced in Japan and released in North America and Europe in 1999, Dance Dance Revolution is the pioneering series of the rhythm and dance genre in video games. Players stand on a "dance platform" or stage and hit colored arrows laid out in a cross with their feet to musical and visual cues. Players are judged by how well they time their dance to the patterns presented to them and are allowed to choose more music to play if they receive a passing score. The core gameplay involves the player stomping their feet to correspond with the arrows that appear on screen and the beat. During normal gameplay, arrows scroll upwards from the bottom of the screen and pass over a set of stationary arrows near the top (referred to as the "guide arrows" or "receptors", officially known as the Step Zone). When the scrolling arrows overlap the stationary ones, the player must step on the corresponding arrows on the dance platform, and the player is given a judgement for their accuracy of every streaked notes (From highest to lowest: Marvelous,Perfect, Great, Good, Almost, Miss) [2] Additional arrow types were added in later mixes. Freeze Arrows, introduced in MAX, are long green arrows that must be held down until they completely travel through the Step Zone. Each of these arrows awards an "O.K.!" if successfully pressed or an "N.G." when the arrow is released too quickly. An "N.G." decreases the life bar and, starting with X, also breaks any existing combo. X also introduced Shock Arrows, walls of arrows with lightning effects which must be avoided, awarding an "O.K.!" if successfully avoided or an "N.G." if any of the dancer's panels are stepped on. An "N.G." for shock arrows has the same consequences found with freeze arrows, but hitting a shock arrow additionally hides future steps for a short period of time.
-Successfully hitting the arrows in time with the music fills the "Dance Gauge", or life bar, while failure to do so drains it. If the Dance Gauge is fully exhausted during gameplay, the player will fail the song, and the game will be over. Otherwise, the player is taken to the Results Screen, which rates the player's performance with a letter grade and a numerical score, among other statistics. The player may then be given a chance to play again, depending on the settings of the particular machine. The default limit is of three songs, though operators can set the limit between one and five.
+Dance Dance Revolution: Dance Dance Revolution is a music video game series produced by Konami.  Players stand on a "dance platform" or stage and hit colored arrows laid out in a cross with their feet to musical and visual cues. Players are judged by how well they time their dance to the patterns presented to them. The core gameplay involves the player stomping their feet to correspond with the arrows that appear on screen and the beat. During normal gameplay, arrows scroll upwards from the bottom of the screen and pass over a set of stationary arrows near the top. When the scrolling arrows overlap the stationary ones, the player must step on the corresponding arrows on the dance platform, and the player is given a judgement for their accuracy of every streaked notes (From highest to lowest: Marvelous,Perfect, Great, Good, Almost, Miss)
+
+ Freeze Arrows, introduced in MAX, are long green arrows that must be held down until they completely travel through the Step Zone. Each of these arrows awards an "O.K.!" if successfully pressed or an "N.G." when the arrow is released too quickly. An "N.G." decreases the life bar and, starting with X, also breaks any existing combo. X also introduced Shock Arrows, walls of arrows with lightning effects which must be avoided, awarding an "O.K.!" if successfully avoided or an "N.G." if any of the dancer's panels are stepped on. An "N.G." for shock arrows has the same consequences found with freeze arrows, but hitting a shock arrow additionally hides future steps for a short period of time.
+ 
+Successfully hitting the arrows in time with the music fills the "Dance Gauge", or life bar, while failure to do so drains it. If the Dance Gauge is fully exhausted during gameplay, the player will fail the song, and the game will be over. Otherwise, the player is taken to the Results Screen, which rates the player's performance with a letter grade and a numerical score, among other statistics. 
 
 
 Process: The process took a total of eight weeks or sixteen hours to complete. These [Google](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) [Docs](https://docs.google.com/document/d/1kyIok-TIUp33ot2DaDsc0yfSlF2Xqls6P4McMn81uI0/edit#) documents every week as it happened.
@@ -26,6 +29,8 @@ The “User Information” tab was added, which went over the top players and so
 
 Week 5-
 The data taken from the first two slides were combined. Each column from Song Information was lined up and compared with the average score. Two scatter plots were made per column. One with a range of 925,000-1,000,00 and one with a range of 990,000-1,000,000 to better examine the data without the inclusion of the outliers that were given a 19 difficulty. The top two easiest and hardest ranges were documented.
+
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
 
 Week 6-
 The (incomplete) findings were posted on Github with the intention to finish in the future. This was mostly learning how to use Github and how to clearly present the data in website format.
@@ -103,6 +108,8 @@ CPS- Crossovers divided by seconds
 
 # Results: 
 The results were calculated by eyeballing the graphs and picking ranges which stand out. Interpretations are made over whether or not the correlation equals causation in each dataset
+
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/data.png)
 
 **Length (seconds)**
 
@@ -215,11 +222,4 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 [Easy](https://drive.google.com/drive/folders/1VfXyj_KN-0wigAWfjo_2ofI5AbJyxQC7?usp=sharing)    [Youtube link](https://youtu.be/ODigGu3wJZQ)
 
 [Hard](https://drive.google.com/drive/folders/1SazX8uGqthcrPn05KGRlU2yEdPxtJT5I?usp=sharing)    [Youtube link](https://youtu.be/rZmNcZAu6g4)
-
-# Improvements:
-
-The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. I tried to code a graph to solve it this way, but was unable to interpret it. The best way to interpret the data is to cross reference human interpretation and statistical data. While there is some room for improvement, I think the original goal has been fullfilled. 
-
-
-![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
 
