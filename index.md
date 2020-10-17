@@ -237,4 +237,14 @@ I made two stepfiles which showcase what it would look like if a song had the ev
 
 If one were to try and make the truly hardest song, then all four arrows would need to be pressed at every frame of a 1000+ BPM song. On top of being humanly impossible, this is no fun. 
 
-If one were to try and make the hardest song using these rules, however, there is a better answer. There aren't many strict rules, but the data shows that there are some basic ones. A hard song includes varying degrees of high NPS, high complexity, and high variance in BPM. An easy song includes the opposite, low NPS, little complexity, and moderate BPM. The chart also shows a correlation between NPS and song length and between Peak BPM and BPM changes.
+If one were to try and make the hardest song using these rules, however, there is a better answer. There aren't many strict rules, but the data shows that there are some basic ones. A hard song includes varying degrees of high NPS, high complexity, and high variance in BPM. An easy song includes the opposite, low NPS, little complexity, and moderate BPM. 
+
+The chart also notably shows a strong correlation between four pairs of attributes:
+
+The higher the NPS, the longer the song 
+
+The higher the peak BPM the more BPM changes there were
+
+The higher the NPS, the higher the difficulty
+
+The higher the notes, the more recent the year of origin
