@@ -4,7 +4,7 @@
 
 Additionally, in this project I would like to compare two methods of interpretation: human insight and computer models (to calculate which features will affect the difficulty of the DDR songs). The results can be used to improve the user engagements of the next generations of DDR and the methodology of comparing game features, which can be applied to other human computer interactions and data science researches. The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. While there is some room for improvement, the original goal has been fulfilled.
 
-![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DDR.jpg)
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DDR.jpg) [credit](https://www.researchgate.net/figure/Screen-shot-and-description-of-DDR_fig2_220473903)
 
 **Dance Dance Revolution:** Dance Dance Revolution is a music video game series produced by Konami.  Players stand on a "dance platform" or stage and hit colored arrows laid out in a cross with their feet to musical and visual cues. Players are judged by how well they time their dance to the patterns presented to them. The core gameplay involves the player stomping their feet to correspond with the arrows that appear on screen and the beat. During normal gameplay, arrows scroll upwards from the bottom of the screen and pass over a set of stationary arrows near the top. When the scrolling arrows overlap the stationary ones, the player must step on the corresponding arrows on the dance platform, and the player is given a judgement for their accuracy of every streaked notes (From highest to lowest: Marvelous,Perfect, Great, Good, Almost, Miss)
 
@@ -30,7 +30,7 @@ Player data was added, which collects the scores from the fifteen top players me
 The “User Information” tab was added, which went over the top players and some basic information about them. This tab was largely unused. More columns were added to the Song Information tab and the player scores were finalized.
 
 **Week 5-**
-The data taken from the first two slides were combined. Each column from Song Information was lined up and compared with the average score. Two scatter plots were made per column. One with a range of 925,000-1,000,00 and one with a range of 990,000-1,000,000 to better examine the data without the inclusion of the outliers that were given a 19 difficulty. The top two easiest and hardest ranges were documented.
+The data taken from the first two slides were combined. Each column from Song Information was lined up and compared with the average score. Two scatter plots were made per column. One with a range of 925,000-1,000,00 and one with a range of 990,000-1,000,000 to better examine the data without the inclusion of the outliers that were given a 19 difficulty. The top two easiest and hardest ranges were documented. My coworker also attempted to analyse the data using Python and the results were compared to try and find correlation.
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
 
@@ -119,7 +119,7 @@ Hard 115-125, 95-105.
 
 Easy 105-115/125-135,	90-95
 
-Interpretation: The longer a song, the harder it should be. DDR keeps a relatively consistent total note count, so any longer songs are balanced out by the fact that it is less dense
+Interpretation: The first thing to point out is that Komani likes to "balance" charts in DDR. If a chart is very difficult in one aspect, other aspects are usually made less challenging to prevent making the song unapproachable. We can see this happens with the song length. Logically, a long song would be harder, since there would be more notes. However, this is not the case in DDR. Because the songs are long, they are balanced out by making the notes less dense. This in turn means that long songs usually have less NPS than their shorter counterparts and as a result are easier. 
 
 **NPS**
 
@@ -127,7 +127,7 @@ Hard 7.5-8.5,	6.5-7
 
 Easy	5-5.5	6-6.5
 
-Interpretation: This makes sense. The harder a song, the faster the notes
+Interpretation: The faster a song, the more notes there are to hit. However, DDR isn't that simple. If a song has less NPS, especially if it's in the 18-19 range, the patterns are typically more complex. There are more crossovers, footswitches (patterns that make the player shift their feet position), and overall higher technicality. While a very large skill barrier, it it's effect is minimal at the top level of play, as shown here. The NPS perfectly correlaes with the difficulty once technical patterns are no longer an issue.
 
 **FAPS**
 
@@ -135,7 +135,7 @@ Hard	.3-.35,	0.75
 
 Easy	.4-.6,	.11-.35
 
-Interpretation: There is an upwards trend with difficulty, but it's not exact. This could be a combination of freeze notes resulting in less overall notes but more complex charts.
+Interpretation: There is a slight upwards trend in difficulty, but it doesn't perfectly correlate. This is likely due to the fact that freeze arrows are entirely dependent on how they are used. 
 
 **Shock Arrows**
 
