@@ -23,7 +23,7 @@ The method for completing the project was fleshed out. 54 songs were chosen from
 **Week 2-** A [Google Sheets](https://docs.google.com/spreadsheets/d/1iJwB6DM1Rgd7vcykuHsGiLuTWSulf_7CsIXnuPkISbw/edit?usp=sharing) was created to document the data. “Song Information” tab was created, along with the columns Length (seconds),Notes	,Freeze Arrows,	Shock Arrows, Jumps, and	BPM. These are important factors for determing a song's style. This sheet intends to document every attribute of a song that could possibly contribute to its difficulty. 
 
 **Week 3-**
-Player data was added, which collects the scores from the fifteen top players mentioned above, plus what kind of combo they achieved. Their scores were then combined to form an average score for every song and player. Any scores left undocumented were left blank. That gave us a brief understanding of how is the performance of each player for each song. 
+Player data was added, which collects the scores from the fifteen top players mentioned above, plus what kind of combo they achieved. Their scores were then combined to form an average score for every song and player. Any scores left undocumented were left blank. This data gives a better understanding of each player and their performance on every song.
 
 **Week 4-**
 The “User Information” tab was added, which went over the top players and some basic information about them. This tab was largely unused. More columns were added to the Song Information tab and the player scores were finalized.
