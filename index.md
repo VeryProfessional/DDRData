@@ -4,7 +4,7 @@
 
 Additionally, in this project I would like to compare two methods of interpretation: human insight and computer models (to calculate which features will affect the difficulty of the DDR songs). The results can be used to improve the user engagements of the next generations of DDR and the methodology of comparing game features, which can be applied to other human computer interactions and data science researches. The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. While there is some room for improvement, the original goal has been fulfilled.
 
-![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DDR.jpg) [credit](https://www.researchgate.net/figure/Screen-shot-and-description-of-DDR_fig2_220473903)
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/DDR.jpg) 
 
 **Dance Dance Revolution:** Dance Dance Revolution is a music video game series produced by Konami.  Players stand on a "dance platform" or stage and hit colored arrows laid out in a cross with their feet to musical and visual cues. Players are judged by how well they time their dance to the patterns presented to them. The core gameplay involves the player stomping their feet to correspond with the arrows that appear on screen and the beat. During normal gameplay, arrows scroll upwards from the bottom of the screen and pass over a set of stationary arrows near the top. When the scrolling arrows overlap the stationary ones, the player must step on the corresponding arrows on the dance platform, and the player is given a judgement for their accuracy of every streaked notes (From highest to lowest: Marvelous,Perfect, Great, Good, Almost, Miss)
 
@@ -12,7 +12,7 @@ Additionally, in this project I would like to compare two methods of interpretat
  
 Successfully hitting the arrows in time with the music fills the "Dance Gauge", or life bar, while failure to do so drains it. If the Dance Gauge is fully exhausted during gameplay, the player will fail the song, and the game will be over. Otherwise, the player is taken to the Results Screen, which rates the player's performance with a letter grade and a numerical score, among other statistics. 
 
-![](https://github.com/veryprofessional/DDRData/blob/gh-pages/gameplay.png)
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/gameplay.png)[credit](https://www.researchgate.net/figure/Screen-shot-and-description-of-DDR_fig2_220473903)
 
 
 **Process:** The process took a total of eight weeks or sixteen hours to complete. These [Google](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) [Docs](https://docs.google.com/document/d/1kyIok-TIUp33ot2DaDsc0yfSlF2Xqls6P4McMn81uI0/edit#) documents every week as it happened.
