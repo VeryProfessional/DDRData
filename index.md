@@ -1,6 +1,10 @@
 # The Mathematical Findings of DDR Difficulty Calculators
 
-Goal: To find out what makes a song in Dance Dance Revolution hard to score on. 
+Project Background: This project aims to create datasets and analysis for the game Dance Dance Revolution to create a greater understanding of the difficulty meter in the game. This requires many factors within the game to be taken into account. These included song information, player records, user information, and ordered data. The results were calculated by eyeballing the graphs and picking ranges which stand out. Interpretations are made over whether or not the correlation equals causation in each dataset. 
+
+Additionally, in this project I would like to compare two methods of interpretation: human insight and computer models (to calculate which features will affect the difficulty of the DDR songs). The results can be used to improve the user engagements of the next generations of DDR and the methodology of comparing game features, which can be applied to other human computer interactions and data science researches. The biggest way this project can be improved is by mathematically solving for the data, which would not only be more accurate, but could also prove if there is causation with the trends. While there is some room for improvement, the original goal has been fulfilled.
+
+
 
 Process: The process took a total of eight weeks or sixteen hours to complete. This [Google Doc](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) documents every week as it happened.
 
