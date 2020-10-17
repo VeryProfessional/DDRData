@@ -12,6 +12,8 @@ Additionally, in this project I would like to compare two methods of interpretat
  
 Successfully hitting the arrows in time with the music fills the "Dance Gauge", or life bar, while failure to do so drains it. If the Dance Gauge is fully exhausted during gameplay, the player will fail the song, and the game will be over. Otherwise, the player is taken to the Results Screen, which rates the player's performance with a letter grade and a numerical score, among other statistics. 
 
+![](https://github.com/veryprofessional/DDRData/blob/gh-pages/gameplay.png)
+
 
 **Process:** The process took a total of eight weeks or sixteen hours to complete. These [Google](https://docs.google.com/document/d/1nOadoTU2YxaevYkYJpwsabKDq06GyWiE0W6nnG-Uf7M/edit?usp=drivesdk) [Docs](https://docs.google.com/document/d/1kyIok-TIUp33ot2DaDsc0yfSlF2Xqls6P4McMn81uI0/edit#) documents every week as it happened.
 
