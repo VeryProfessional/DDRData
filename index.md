@@ -71,7 +71,9 @@ Jumps- Amount of jumps, portrayed by two arrows hitting the receptor at the same
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/Jump.png)
 
-BPM- The beats per minute of the main melody of the song 
+[This video shows how the speed mod can affect the song experience. 888 can use the speed mod to either speed the slow section up or slow the fast section down.](https://www.youtube.com/watch?v=487RZG3VnwQ)
+
+BPM- The beats per minute of the main melody of the song. Also decides how fast a song scrolls. This feature can be changes by increments of .25. For example, a player can play a 200 BPM song on 1.5x speed and have the song scroll at 300 BPM. The actual song remains at 200 BPM, only the scroll speed is changed.
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/BPM.png)
 
@@ -152,7 +154,7 @@ Hard	.25-.4, .7-1.05
 
 Easy	.4-.6,	0-.25
 
-Interpretation: Jumps are possibly the most polarizing pattern in the game. They are typically added into a song to compensate for it's lack of notes, and as a result tend to be easier to score. It shows in the data as well. The top three songs with the least notes have many jumps 
+Interpretation: Jumps are possibly the most polarizing pattern in the game. They are typically added into a song to compensate for it's lack of notes, and as a result tend to be easier to score. However, they can also be a bit too overwhelming. Songs with more than .7 jumps per second can easily tire players out, even at the highest level of play. Additionally, the hardest songs tend to focus on their speed over their jumps, but they are thrown in as well, which explains the .25-.4 range.
 
 **BPM**
 
@@ -160,7 +162,7 @@ Hard	220,	170-180
 
 Easy	200-210,	180-190
 
-Interpretation: The more extreme the BPM, the harder it is to see the notes
+Interpretation: BPM's main difficulty comes from the speed. The faster the BPM, the harder it is to keep up with the notes. However, there is a secondary effect that BPM causes in DDR. Since the song doesn't move as fast, the scroll speed slows down too. This is very problematic for high players, who are used to the ludicrous speeds that the fast songs have conditioned them to be used to. All of a sudden, slow songs become too slow, and the notes are unreadable because they are too close together. This is why the easy range is in between both sides of the hard range. In DDR, BPM is ideally moderate, not slow.
 
 **Peak BPM**
 
@@ -168,7 +170,7 @@ Hard	700-900,	160-190
 
 Easy	200-240,	300-450
 
-Interpretation: Same as BPM
+Interpretation: Notes become unreadable at around the 800 BPM mark for top players, and beyond that they have to resort to using a lower speed mod or memorizing the notes.
 
 **Lowest BPM**
 
