@@ -33,6 +33,7 @@ The data taken from the first two slides were combined. Each column from Song In
 
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/code.png)
 ![](https://github.com/veryprofessional/DDRData/blob/gh-pages/python.png)
+[link to python code](https://github.com/VeryProfessional/DDRData/blob/gh-pages/DDR_Project%20(1).ipynb)
 
 **Week 6-**
 The (incomplete) findings were posted on Github with the intention to finish in the future. This was mostly learning how to use Github and how to clearly present the data in website format.
