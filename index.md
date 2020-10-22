@@ -44,7 +44,7 @@ Two song files were charted and the download link was provided. Anyone can now v
 **Week 8-**
 The songs were recorded and uploaded to YouTube for viewers who can't download Stepmania. 
 
-**Week 9**
+**Week 9-**
 The improvements section was removed and instead combined with the goal section to make the project background section. The project background section gives a better understanding of the goal and process of this project. The Dance Dance Revolution section was also added, which gives a brief summary of the game.
 
 ## Song Information column explanation
